@@ -49,7 +49,7 @@ fairseq-preprocess \
 ```
 
 
-### pRoBERTa_pretrain.sh
+### pretrain.sh
  Pre-train RoBERTa model
 
 ```bash
